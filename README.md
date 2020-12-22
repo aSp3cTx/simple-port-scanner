@@ -24,4 +24,6 @@ Simple Port Scanner that i made :D
 
 ### Thats all :DD
 
+#PS:
+if there is no open ports the program dont going to show anything.
 
