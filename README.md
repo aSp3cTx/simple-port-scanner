@@ -11,7 +11,7 @@ Simple Port Scanner that i made :D
 
 #3 - Download Termcolor - (run command in cmd) pip install termcolor
 
-### You're Done! :D
+# You're Done! :D
 
 
-#Running the File:
+### Running the File:
