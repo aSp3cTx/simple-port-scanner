@@ -16,7 +16,7 @@ Simple Port Scanner that i made :D
 
 # Step 2: Running the File:
 
-#1 - Open The File( i asume you know how to do that xD)
+#1 - Open The File( I'm Assuming You Know How To Open A File xD)
 
 #2 - Enter The Targets (split the targets by ,)
 
