@@ -14,7 +14,7 @@ Simple Port Scanner that i made :D
 ### You're Done! :D
 
 
-# Step 2: Running the File:
+# Step 2: Running the Program:
 
 #1 - Open The File( I'm Assuming You Know How To Open A File xD)
 
