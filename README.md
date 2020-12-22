@@ -25,4 +25,4 @@ Simple Port Scanner that i made :D
 ### Thats all :DD
 
 # PS:
-The Program Is Printing Open Ports, That's Mean If The Target Has Not Any Open The Ports, U Will Not See Anything. 
+The Program Is Printing Only Open Ports, That's Mean If The Target Has Not Any Open The Ports, U Will Not See Anything. 
