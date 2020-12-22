@@ -3,7 +3,7 @@
 Simple Port Scanner that i made :D
 
 
-# Setup:
+# Step 1: Setup:
 
 #1 - Download Python https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe
 
@@ -11,7 +11,7 @@ Simple Port Scanner that i made :D
 
 #3 - Download Termcolor - (run command in cmd) pip install termcolor
 
-# You're Done! :D
+### You're Done! :D
 
 
-### Running the File:
+# Step 2: Running the File:
