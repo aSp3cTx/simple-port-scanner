@@ -15,4 +15,13 @@ Simple Port Scanner that i made :D
 
 
 # Step 2: Running the File:
-#
+
+#1 - Open The File( i asume you know how to do that xD)
+
+#2 - Enter The Targets (split the targets by ,)
+
+#3 - Select How Many Ports You Want To Scan (1-65535)
+
+### Thats all :DD
+
+
