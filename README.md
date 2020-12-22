@@ -14,4 +14,4 @@ Simple Port Scanner that i made :D
 ### You're Done! :D
 
 
-##Running the File:
+#Running the File:
