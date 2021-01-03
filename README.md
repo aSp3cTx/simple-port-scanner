@@ -9,8 +9,6 @@ Simple Port Scanner that i made :D
 
 #2 - Download PIP https://www.liquidweb.com/kb/install-pip-windows/
 
-#3 - Download Termcolor - (run command in cmd) pip install termcolor
-
 ### You're Done! :D
 
 
