@@ -1,30 +1,24 @@
-
 import socket
-import termcolor
 
+def scan(targets, ports):
+    print("\n" + "[aspect] Started port scanning for: " + str(targets) + ":")
 
-def scan(target, ports):
-	print(termcolor.colored(('\n' + ' Starting Scan For ' + str(target)) + ':' , 'red'))
-	for port in range(1,ports):
-		scan_port(target,port)
+    for port in range(1, ports):
+        port_scan(targets, port)
 
-def scan_port(ipaddress, port):
-	try:
-		sock = socket.socket()
-		sock.connect((ipaddress, port))
-		print(termcolor.colored(("[+] Port Opened Found, Port Num: " + str(port)), 'green'))
-		sock.close()
-	except:
-		pass
+def port_scan(IP, port):
+    try:
+        sock = socket.socket()
+        sock.connect((IP, port))
 
-print(termcolor.colored(("[Port Scanner By aspect]"), 'red'))
-targets  = input("[*] Enter Targets To Scan: (split them by ,): ")
-ports = int(input("[*] How Many Ports You Want To Scan? (1-65535) "))
-if ',' in targets:
-	print(termcolor.colored(("[*] Scanning Multiple Targets"), 'red'))
-	for ip_addr in targets.split(','):
-		scan(ip_addr.strip(' '),ports)
-else:
-	scan(targets, ports)
+        print("[+] An open port was found: " + str(port))
+        sock.close()
+    except:
+        pass
 
+print("[aspect] Port Scanner")
 
+targets = input("[aspect] Enter the target's IP ")
+ports = int(input("[aspect] How many ports you want to scan? (1-65535) "))
+
+scan(targets, ports)
