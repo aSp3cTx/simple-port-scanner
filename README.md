@@ -3,7 +3,7 @@
 
 # simple-port-scanner
 
-Simple Port Scanner that i made :D
+Simple Port Scanner that I Coded :D
 
 
 # Step 1: Setup:
