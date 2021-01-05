@@ -9,6 +9,8 @@ Simple Port Scanner that i made :D
 
 #2 - Download PIP https://www.liquidweb.com/kb/install-pip-windows/
 
+#3 - Go To The Directory Of The Tool, And run the Command: pip install -r requirements.txt 
+
 ### You're Done! :D
 
 
