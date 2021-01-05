@@ -1,4 +1,3 @@
-![portscannerpic](https://imgur.com/a/QSPRvtg)
 
 
 # simple-port-scanner
