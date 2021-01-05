@@ -29,3 +29,4 @@ Simple Port Scanner that I Coded :D
 
 # PS:
 The Program Is Printing Only Open Ports, That's Mean If The Target Has Not Any Open The Ports, You Will Not See Anything. 
+thx for [5uicide](https://github.com/5uicidE) for helping me improve the code :D.
