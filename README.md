@@ -21,9 +21,7 @@ Simple Port Scanner that I Coded :D
 
 #1 - Open The File( I'm Assuming You Know How To Open A File xD)
 
-#2 - Enter The Targets (split the targets by ,)
-
-#3 - Select How Many Ports You Want To Scan (1-65535)
+#2 - Enter The Target IP Address
 
 ### Thats all :DD
 
